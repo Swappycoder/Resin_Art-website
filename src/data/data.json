@@ -1,0 +1,132 @@
+{
+  "Header": {
+    "title": "Resin Art",
+    "paragraph": "Make Your Art POP"
+  },
+  "About": {
+    "paragraph": "At Resin Ripple Art, we're passionate about transforming resin into captivating visual experiences. Our vibrant creations blend chemistry with creativity, offering unique pieces that mesmerize and inspire. With a dedication to craftsmanship, we craft each artwork to evoke emotion and intrigue. Explore our gallery and immerse yourself in the world of resin artistry.",
+    "Why1": [
+      "Unique Creations",
+      "Quality Materials",
+      "Expert Craftsmanship",
+      "Customization Options"
+    ],
+    "Why2": [
+      "Customer Satisfaction",
+      "Innovative Designs",
+      "Eco-Friendly Practices",
+      "Fast and Secure Shipping"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Product 1",
+      "largeImage": "img/products/01-large.jpg",
+      "smallImage": "img/products/01-small.jpg"
+    },
+    {
+      "title": "Product 2",
+      "largeImage": "img/products/02-large.jpg",
+      "smallImage": "img/products/02-small.jpg"
+    },
+    {
+      "title": "Product 3",
+      "largeImage": "img/products/03-large.jpg",
+      "smallImage": "img/products/03-small.jpg"
+    },
+    {
+      "title": "Product 4",
+      "largeImage": "img/products/04-large.jpg",
+      "smallImage": "img/products/04-small.jpg"
+    },
+    {
+      "title": "Product 5",
+      "largeImage": "img/products/05-large.jpg",
+      "smallImage": "img/products/05-small.jpg"
+    },
+    {
+      "title": "Product 6",
+      "largeImage": "img/products/06-large.jpg",
+      "smallImage": "img/products/06-small.jpg"
+    },
+    {
+      "title": "Product 7",
+      "largeImage": "img/products/07-large.jpg",
+      "smallImage": "img/products/07-small.jpg"
+    },
+    {
+      "title": "Product 8",
+      "largeImage": "img/products/08-large.jpg",
+      "smallImage": "img/products/08-small.jpg"
+    },
+    {
+      "title": "Product 9",
+      "largeImage": "img/products/09-large.jpg",
+      "smallImage": "img/products/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-building-o",
+      "name": "Resin Art Workshops",
+      "text": "Unlock your creative potential with our immersive resin art workshops. Whether you're a beginner looking to learn the basics."
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "Resin Art Commissions",
+      "text": "Elevate your space with a stunning resin art commission. Whether it's for your home, office, or special event, our team will work closely with you to create a custom masterpiece that perfectly complements your style and aesthetic."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "Resin Art Supplies",
+      "text": "Dive into the world of resin art with our premium-quality supplies. From epoxy resin and pigments to tools and accessories, we offer everything you need to embark on your own resin art journey."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Resin Art Consultation",
+      "text": " Not sure where to begin? Our knowledgeable team is here to help. We offer personalized consultation services to guide you through the process, from selecting the right materials to designing the perfect piece for your space."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/CEO.jpg",
+      "name": "Jinal Gulhane",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/designer.jpg",
+      "name": "Mohit Khade",
+      "job": "Senior Designer"
+    }
+  ],
+  "Contact": {
+    "address": "1288/D/226,Nandanvan Colony ",
+    "phone": "+91 8830345494",
+    "email": "mohitkhade11@gmail.com",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "Features": [
+    {
+      "icon": "fa fa-shield",
+      "title": "SAFE",
+      "text": "ArtResin is non-toxic (when used as directed) so it's not bad for your health like other resins. No VOCs. No fumes. No solvents. Non-flammable. Non-hazardous. Conforms to ASTM D4236 (Safe for Home Use when used in a well ventilated area)."
+    },
+    {
+      "icon": "fa fa-tint",
+      "title": "CLEAR",
+      "text": "ArtResin is chemically engineered to offer the most efficient yellowing protection on the market. Its advanced stabilization additives provide superior, long-term clarity."
+    },
+    {
+      "icon": "fa fa-heart",
+      "title": "BEAUTIFUL",
+      "text": "Designed to look gorgeous and be strong and durable. Clear. Glossy. Shiny. Thick. Solid. Hard. Pro. ArtResin increases the attractiveness and value of whatever it's used on!"
+    },
+    {
+      "icon": "fa fa-thumbs-up",
+      "title": "EASY",
+      "text": "ArtResin is self-levelling, its 1:1 mixing ratio is user-friendly and we offer a million easy how-to videos. Almost a million :)"
+    }
+  ]
+}
